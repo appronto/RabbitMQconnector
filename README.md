@@ -14,7 +14,9 @@ This module supports two patterns:
 * [RabbitMQ libraries](http://www.rabbitmq.com/java-client.html)
 
 ## Installation
-*Import the module **RabbitMQ connector** in your project (from the Mendix AppStore or by downloading and exporting the module from this project)
+* You can acquire an account at [cloudamqp.com](https://www.cloudamqp.com/ "cloudamqp.com"). They deliver hosted RabbitMQ instances and also offer a free plan too. 
+
+* Import the module **RabbitMQ connector** in your project (from the Mendix AppStore or by downloading and exporting the module from this project)
 
 - Add RMQConfiguration_Overview to your navigation
 - Use the provided actions in Objects/subfolder

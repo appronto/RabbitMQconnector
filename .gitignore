@@ -18,3 +18,5 @@ proxies
 .mendix-cache
 .settings
 .svn
+
+data-snapshot.zip
