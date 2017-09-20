@@ -18,6 +18,8 @@ This module supports two patterns:
 
 * Import the module **RabbitMQ connector** in your project (from the Mendix AppStore or by downloading and exporting the module from this project)
 
+* You need to add the MxModelReflection module also from the appstore
+
 - Add RMQConfiguration_Overview to your navigation
 - Use the provided actions in Objects/subfolder
 - Do not use microflows in /private folders
