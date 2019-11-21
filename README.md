@@ -16,9 +16,9 @@ This module supports two patterns:
 ## Installation
 * You can acquire an account at [cloudamqp.com](https://www.cloudamqp.com/ "cloudamqp.com"). They deliver hosted RabbitMQ instances and also offer a free plan too. 
 
-* Import the module **RabbitMQ connector** in your project (from the Mendix AppStore or by downloading and exporting the module from this project)
+* Import the module **RabbitMQ connector** in your project (by downloading and exporting the module from this project, see https://github.com/appronto/RabbitMQconnector/releases)
 
-* You need to add the MxModelReflection module also from the appstore
+* You need to add the MxModelReflection module from the appstore
 
 - Add RMQConfiguration_Overview to your navigation
 - Use the provided actions in Objects/subfolder
@@ -43,7 +43,7 @@ This module supports two patterns:
 
 ## Remarks
 * Avoid fetching large amounts of data as it can lead to memory issues because all the ResultRow data is being loaded into memory at once.
-* 
+* Module is only available via Github.
 
 
 ## License
